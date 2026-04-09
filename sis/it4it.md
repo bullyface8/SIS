@@ -9,6 +9,14 @@ The Strategy to Portfolio value stream focuses on aligning business demand with 
 
 The objective of this project was to construct a lightweight, high-ROI AI application that directly streamlines this workflow. During the S2P phase, the strategic scope was deliberately constrained. To maximize feasibility and strictly restrict costs, the tool was scoped as a stateless frontend interface with local logging only. By intentionally omitting costly and complex features like database persistence, user authentication, CRM integration, and real-time messaging, the project prevented scope creep and yielded a stable proof-of-concept demonstrating immediate value to customer support managers.
 
+**Why is an AI agent the right investment to solve this?**
+
+Customer messages are written in natural language with typos, slang, emojis, and variations in phrasing. A traditional script based on if-else rules or regular expressions would require manually listing every possible wording of every question. This is impossible to maintain. For example, the question "where is my package?" can be asked as "where's my order?", "when will it arrive?", "посылка где?", "трек номер дайте", or "заказ потерялся". An LLM understands meaning, not exact words, and can classify all these variations correctly without additional coding.
+
+Furthermore, an AI agent (LLM) can generate context-aware reply templates, not just select from a fixed list. It can adapt tone, add politeness, and handle edge cases like sarcasm or mixed intents. A traditional script cannot do this.
+
+Therefore, investing in an AI agent provides higher accuracy, lower maintenance, and better customer experience than a manual or rule-based approach — with API costs as low as $0.001 per request.
+
 ## 3. Requirement to Deploy (R2D)
 
 The Requirement to Deploy stream translates business objectives into functional software. This application adopted an AI-assisted, architect-led development methodology using Google Antigravity.
