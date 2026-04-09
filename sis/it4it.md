@@ -11,7 +11,7 @@ The objective of this project was to construct a lightweight, high-ROI AI applic
 
 **Why is an AI agent the right investment to solve this?**
 
-Customer messages are written in natural language with typos, slang, emojis, and variations in phrasing. A traditional script based on if-else rules or regular expressions would require manually listing every possible wording of every question. This is impossible to maintain. For example, the question "where is my package?" can be asked as "where's my order?", "when will it arrive?", "посылка где?", "трек номер дайте", or "заказ потерялся". An LLM understands meaning, not exact words, and can classify all these variations correctly without additional coding.
+Customer messages are written in natural language with typos, slang, emojis, and variations in phrasing. A traditional script based on if-else rules or regular expressions would require manually listing every possible wording of every question. This is impossible to maintain.
 
 Furthermore, an AI agent (LLM) can generate context-aware reply templates, not just select from a fixed list. It can adapt tone, add politeness, and handle edge cases like sarcasm or mixed intents. A traditional script cannot do this.
 
