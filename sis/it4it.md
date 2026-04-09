@@ -1,7 +1,7 @@
 # Customer Support Ticket Classifier: IT4IT Reflective Summary
 
 ## 1. Project Title
-**Customer Support Ticket Classifier for an E-commerce SME: An AI-Powered Triage Tool**
+**Customer Support Ticket Classifier**
 
 ## 2. Strategy to Portfolio (S2P)
 
